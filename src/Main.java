@@ -9,6 +9,8 @@ public class Main {
         System.out.println("Фамилия автора "+ autor1.getLastName());
         System.out.println("Название книги "+ book1.getName()+" Год "+ book1.getYear()+" Автор " + book1.getAutor().getLastName());
         System.out.println("Название книги "+ book2.getName()+" Год "+ book2.getYear()+" Автор " + book2.getAutor().getLastName());
+        System.out.println();
+
 
     }
 }
