@@ -11,5 +11,6 @@ public class Main {
         System.out.println("Название книги "+ book2.getName()+" Год "+ book2.getYear()+" Автор " + book2.getAutor().getLastName());
         System.out.println();
 
+
     }
 }
